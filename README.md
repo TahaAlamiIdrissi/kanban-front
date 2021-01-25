@@ -19,6 +19,6 @@ npm run build
 ```
 npm run lint
 ```
-
+contains list of tasks and developers
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
